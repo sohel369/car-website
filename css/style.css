@@ -135,6 +135,7 @@ body .section_one .content .input_group button {
   outline: none;
   border-radius: 10px;
   cursor: pointer;
+  background: #11a31d;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
   transition: 0.5s ease;

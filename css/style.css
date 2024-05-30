@@ -13,7 +13,7 @@ body .bar {
 }
 body .section_one {
   height: 100vh;
-  background-image: url("..//./HD-wallpaper-car-night-city.jpg");
+  background-image: url(..//./HD-wallpaper-car-night-city.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
